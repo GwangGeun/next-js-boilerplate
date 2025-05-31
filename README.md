@@ -1,12 +1,5 @@
-## Project Set Up
+# README 
 
-Yarn Berry with zero-install (aka. PnP). As of now (24.05.2025), Turbopack doesn't work with PnP
+## Project Setup
 
-## The process of project creation
-````
-1. npx create-next-app@latest
-2. corepack enable
-3. yarn set version stable
-4. yarn install
-````
-
+You can find the detailed project setup guide [here](./docs/PROJECT.MD).
